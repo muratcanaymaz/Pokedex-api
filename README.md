@@ -7,3 +7,5 @@
 <h2>Harici Kullanılanlar</h2>
 
 HTML5, CSS3, JAVASCRİPT, APİ .
+
+![](pokedex.gif)
